@@ -1,0 +1,18 @@
+{
+   "botToken":"NTk5MzA1MTczNTU0MTY3ODE4.XSjQpw.Hqf8nxaKRUtuG2ZwfDcfAilkL3s",
+   "owner":"447854837288402944",
+   "shardCount":1,
+   "shardNames":[
+      "BarryUtil PF Prime Shard"
+   ],
+   "logChannel": "533017697534083072/559319487011225610",
+   "errorChannel": "533017697534083072/559319487011225610",
+   "feedbackChannel": "533017697534083072/559319487011225610",
+   "bugChannel": "533017697534083072/553887925260124160",
+   "announcementsChannel":"533017697534083072/535844474535018507",
+   "carbonKey":"[https://www.carbonitex.net key you won't have]",
+   "discordBotsOrgKey":"https://discordbots.org/ key you also won't have",
+   "discordBotsKey": "https://bots.discord.pw/ key you also also won't have",
+   "discoinKey":"http://discoin.sidetrip.xyz/ you will never get",
+   "sentryAuth": "[SENTRY AUTH]"
+}
